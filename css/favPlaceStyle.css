@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+li {
+  text-align: center;
+  font-size: 21px;
+  text-decoration: underline;
+  line-height: 35px;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+}
